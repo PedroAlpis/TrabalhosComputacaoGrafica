@@ -1,6 +1,7 @@
 
-**Instalando o Python no Ubuntu**
-&nbsp;
+**Instalando o Python no Ubuntu**&nbsp;
+
+
 ```sudo apt-get install python3```
 &nbsp;
 
