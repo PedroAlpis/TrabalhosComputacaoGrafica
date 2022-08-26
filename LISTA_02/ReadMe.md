@@ -37,6 +37,16 @@
 [Link Codigo](https://github.com/PedroAlpis/TrabalhosComputacaoGrafica/tree/main/LISTA_02/Exercicio1)
 &nbsp;
 
+**Exercicio 2**&nbsp;
+
+```sudo apt install python3-pygame```
+
+```python3 esfera.py```&nbsp;
+
+[Link Codigo]()
+&nbsp;
+
+
 
 **Exercicio 3**&nbsp;
 
