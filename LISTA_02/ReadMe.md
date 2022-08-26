@@ -28,7 +28,9 @@
 ```export PYOPENGL_PLATFORM=osmesa```
 
 
-**Exercicio 3** &nbsp;
-```python3 paraboloideHip.py```
+**Exercicio 3**&nbsp;
+
+```python3 paraboloideHip.py```&nbsp;
+
 [Link Codigo](https://github.com/PedroAlpis/TrabalhosComputacaoGrafica/tree/main/LISTA_02/Exercicio3)
 
