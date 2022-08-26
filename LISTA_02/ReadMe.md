@@ -29,5 +29,6 @@
 
 
 **Rodando Ex3 **&nbsp;
-python3 paraboloideHip.py
+```python3 paraboloideHip.py```
+[Link Codigo](https://github.com/PedroAlpis/TrabalhosComputacaoGrafica/tree/main/LISTA_02/Exercicio3)
 
