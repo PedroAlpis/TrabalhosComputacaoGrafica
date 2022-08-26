@@ -28,6 +28,16 @@
 ```export PYOPENGL_PLATFORM=osmesa```
 
 
+**Exercicio 1**&nbsp;
+
+```sudo apt install python3-numpy```
+
+```python3 dado.py```&nbsp;
+
+[Link Codigo](https://github.com/PedroAlpis/TrabalhosComputacaoGrafica/tree/main/LISTA_02/Exercicio1)
+&nbsp;
+
+
 **Exercicio 3**&nbsp;
 
 ```python3 paraboloideHip.py```&nbsp;
