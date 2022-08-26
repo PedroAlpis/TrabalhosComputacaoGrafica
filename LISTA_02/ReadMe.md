@@ -54,3 +54,9 @@
 
 [Link Codigo](https://github.com/PedroAlpis/TrabalhosComputacaoGrafica/tree/main/LISTA_02/Exercicio3)
 
+
+**Exercicio 4**&nbsp;
+
+```python3 iluminacao_prisma.py```&nbsp;
+
+[Link Codigo]()
